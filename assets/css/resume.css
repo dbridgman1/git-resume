@@ -1,0 +1,110 @@
+body{
+	background:#333333 url(https://image.freepik.com/free-photo/wall-texture_1194-5615.jpg);
+	margin:0px;
+	font: 400 12px/22px 'Open Sans', Verdana, Helvetica, sans-serif;
+	color:#e0e0e0;
+}
+h1{
+	font: 400 58px/60px 'Bree Serif', Georgia, serif;
+	 color:#6a6969;
+	}
+h2{
+	font: 400 18px/22px 'Bree Serif', Georgia, serif;
+	 color:#6a6969;
+	}
+h3{
+	font: 400 35px/35px 'Bree Serif', Georgia, serif;
+	 color:#6a6969;
+	 float: left;
+	 padding-top: 45px;
+	}
+
+ul{
+	margin:0px;
+	 padding:0px;
+	}
+
+a {
+	text-decoration:none;
+	 color:#6a6969;
+	}
+
+#container{
+	width:950px;
+	margin:0px auto 300px auto;
+	background-color: #2e2e2ebd;
+	overflow:auto;
+	padding-bottom:100px;
+}
+
+#header{
+	width:864px;
+	height:115px;
+	background-color:#222222;
+	padding:0px 43px;
+	position: fixed;
+	top:0px;
+	left:50%;
+	margin: 0 0 0 -475px;
+}
+
+#main-menu{
+	float:right;
+	 padding-top:95px;
+	}
+
+#header #main-menu li{
+	float:left;
+	list-style:none;
+	margin-left:27px;
+	font: 400 16px/20px 'Bree Serif', Georgia, serif;
+}
+
+/****************************************************/
+/* BIO SECTION */
+/****************************************************/
+
+#bio{
+	margin:0px 43px;
+	 padding-top:115px;
+}
+
+#bio h1{
+	text-align: center;
+}
+
+#bio .content{
+	overflow:auto;
+}
+
+.content img{
+	float:left;
+	margin-right:40px;
+	border:5px solid #222222;
+}
+
+
+/****************************************************/
+/* EXPERIENCE SECTION */
+/****************************************************/
+
+#experience{
+	margin:0px 43px;
+	text-align: center;
+}
+
+/****************************************************/
+/* PROJECT SECTION */
+/****************************************************/
+
+#projects{
+	margin:0px 43px;
+	text-align: center;
+}
+
+#proList {
+	list-style-type: none;
+}
+
+
+
