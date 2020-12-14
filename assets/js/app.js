@@ -33,6 +33,8 @@ $(function() {
             `)
         })
     };
+
+
     
 
     $('.sidenav').sidenav();
@@ -45,5 +47,7 @@ $(function() {
     $('#catGif').modal({
         onOpenStart: randomCatGif()
     });
+    $('#multiple').modal();
+    $('#painless').modal();
 });
 
